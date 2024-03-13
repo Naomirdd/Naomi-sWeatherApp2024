@@ -1,6 +1,13 @@
 body {
-  background-color: blue;
+  background-color: #bcdff6;
 }
-.Main-App {
+.main-app {
   background-color: white;
+  margin: 0 auto;
+  padding: 50px;
+  border-radius: 5px;
+  padding-top: 10px;
+}
+h1 {
+  text-align: center;
 }
